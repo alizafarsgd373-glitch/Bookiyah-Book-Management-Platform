@@ -1,0 +1,3 @@
+Police: 100
+Women Helpline: 1091
+Ambulance: 15
